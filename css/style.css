@@ -2571,7 +2571,7 @@ h6 {
   .client-info .lage {
     color: #ef2b47;
     font-family: "Rubik", sans-serif;
-    font-size: 40px;
+    font-size: 25px;
     font-weight: 700;
     line-height: 85px;
     position: relative;
@@ -2581,7 +2581,7 @@ h6 {
     color: #000000;
     font-family: "Rubik", sans-serif;
     font-size: 20px;
-    margin-left: 20px; }
+    margin-left: 5px; }
 
 .call-now {
   padding-top: 50px;
